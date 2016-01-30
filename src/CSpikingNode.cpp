@@ -7,7 +7,6 @@
 // $Date: $
 // $Author: $
 
-#include "PrecHeaders.h"
 #include "CSpikingNode.h"
 #include "CSpikingNet.h"
 #include <math.h>
